@@ -1,0 +1,3 @@
+/Users/ibell/Documents/camera_system/build/CMakeFiles/rebuild_cache.dir
+/Users/ibell/Documents/camera_system/build/CMakeFiles/edit_cache.dir
+/Users/ibell/Documents/camera_system/build/CMakeFiles/opencv_example.dir
